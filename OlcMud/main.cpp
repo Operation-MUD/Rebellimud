@@ -4,6 +4,9 @@
 #define VERSION_MINOR 1
 
 // TODO: Logging system
+// This is epic, thank you very cool
+// wow much comment
+// on a serious note, i can do this, i have a logging system i need to fix first though
 
 int main( int argc, char** argv )
 {
